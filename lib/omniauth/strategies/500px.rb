@@ -6,7 +6,7 @@ module OmniAuth
 
     class FiveHundredPx < OmniAuth::Strategies::OAuth
       
-      option :name, '500px'
+      option :name, 'FiveHundredPx'
       
       option :client_options, {
         :access_token_path => "/v1/oauth/access_token",

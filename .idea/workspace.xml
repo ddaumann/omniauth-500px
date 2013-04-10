@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b284ebc-f49b-4d43-9fcc-c3ec3d97281b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/omniauth/strategies/500px.rb" afterPath="$PROJECT_DIR$/lib/omniauth/strategies/500px.rb" />
-    </list>
+    <list default="true" id="9b284ebc-f49b-4d43-9fcc-c3ec3d97281b" name="Default" comment="" />
     <ignored path="omniauth-500px.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="9b284ebc-f49b-4d43-9fcc-c3ec3d97281b" time="1365584011658" ignored="false" />
@@ -73,7 +71,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="820" />
+    <option name="y" value="66" />
     <option name="width" value="1920" />
     <option name="height" value="1117" />
   </component>
@@ -200,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1117" extended-state="6" />
+    <frame x="820" y="66" width="1920" height="1117" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
